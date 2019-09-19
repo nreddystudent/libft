@@ -27,7 +27,7 @@ Recreating Standard library funcions in C.
 - Pointer Manipulation
 ---
 ## **How To Use**
-`` make``
+``` make```
 ---
 
 ## **References**
